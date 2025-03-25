@@ -6,8 +6,8 @@
 
 &nbsp;
 
-- 🌱 Post-graduated student in Mobile Development and graduated in System Analysis and Development.
-- ❤️ Passionate about mobile and web technologies, currently learning React Native.
+- 🌱 Post-graduate in Mobile Development and graduated in System Analysis and Development.
+- ❤️ Passionate about web technologies, currently learning React and React Native.
 
 
 ### Skills
@@ -15,7 +15,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### Frameworks and Technologies:
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
