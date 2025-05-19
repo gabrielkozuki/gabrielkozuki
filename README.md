@@ -2,12 +2,13 @@
 
 ###
 
-<h3 align="center">A Full Stack developer living in Brazil.</h3>
+<h3 align="center">A Front-end/Mobile developer living in Brazil.</h3>
 
 &nbsp;
 
 - 🌱 Graduated in System Analysis and Development and post-graduate in Mobile Development.
 - ❤️ Passionate about web technologies, currently learning React and React Native.
+- 💼 Working as a Mid Front-end Developer at @clubnexo
 
 
 ### Skills
