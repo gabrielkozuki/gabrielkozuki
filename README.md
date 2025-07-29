@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Front-end/Mobile developer living in Brazil.</h3>
+<h3 align="center">A Web Developer living in Brazil.</h3>
 
 &nbsp;
 
