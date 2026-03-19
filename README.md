@@ -1,45 +1,58 @@
-<h2 align="center">Hi! I'm Gabriel 👋 </h2>
+# Gabriel Kozuki
 
-###
+**Software Engineer** · React · Next.js 15 · React Native · TypeScript
 
-<h3 align="center">A Web Developer living in Brazil.</h3>
+Londrina, Brasil · [LinkedIn](https://linkedin.com/in/gabriel-kozuki) · [gabrielkozuki@hotmail.com](mailto:gabrielkozuki@hotmail.com)
 
-&nbsp;
+---
 
-- 🌱 Graduated in System Analysis and Development and post-graduate in Mobile Development.
-- ❤️ Passionate about web technologies, currently learning React and React Native.
-- 💼 Working as a Mid Front-end Developer at @clubnexo
+4 years building scalable Web and Mobile products — from legacy ERP modernization to SaaS platforms architected from the ground up. I care about the details that make software fast, maintainable, and pleasant to work with.
 
+Currently leading front-end and mobile architecture at **Value4u**, owning technical decisions across Next.js 15 (Web) and React Native (Mobile) in a continuous delivery environment.
 
-### Skills
-#### Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+---
 
-#### Frameworks and Technologies:
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+## Stack
 
-#### Databases:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Frontend**
+`React` `Next.js 15` `React Native` `TypeScript` `Zustand` `TanStack Query` `Tailwind CSS` `Shadcn/ui` `Angular.js`
 
-#### OS, Tools and Services:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Backend**
+`Node.js` `Express` `C#` `.NET` `Kotlin` `Spring Boot` `REST` `GraphQL`
 
+**Database**
+`PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Prisma`
 
-###
-<div align="center">
-  <div>
-<!--     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabrielkozuki&theme=radical" alt="GitHub Streak" /></a> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=gabrielkozuki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielkozuki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <div>
-</div>
+**DevOps & Cloud**
+`AWS` `Docker` `GitHub Actions` `CI/CD` `Vercel` `Digital Ocean`
+
+---
+
+## Experience highlights
+
+| Company | Role | Period |
+|---|---|---|
+| Value4u | Frontend & Mobile Engineer | 2025 – present |
+| Tata Consultancy Services | Fullstack Developer | 2024 – 2025 |
+| Sistema Lift | Fullstack Developer (Internship) | 2023 – 2024 |
+| Lets Comunicação e Desenvolvimento | Fullstack Developer (Internship) | 2020 – 2021 |
+
+---
+
+## What I focus on
+
+- **Performance** — SSR/SSG strategies, Core Web Vitals, query optimization, bundle analysis
+- **Architecture** — scalable component design, state management patterns, clean separation of concerns
+- **Developer experience** — reusable component libraries, consistent standards, CI/CD pipelines that get out of the way
+
+---
+
+## Education
+
+- **Postgraduate — Software Engineering** · UEL (2026 – present)
+- **Postgraduate — Mobile Application Development** · PUC-PR (2025 – 2027)
+- **B.Tech — Systems Analysis and Development** · IFPR (2021 – 2023)
+
+---
+
+*Open to remote opportunities in product-focused companies.*
