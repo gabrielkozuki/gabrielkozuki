@@ -1,6 +1,6 @@
 # Gabriel Kozuki
 
-**Software Engineer** · React · Next.js 15 · React Native · TypeScript
+**Software Engineer** · React · Next.js · React Native · TypeScript
 
 Londrina, Brasil · [LinkedIn](https://linkedin.com/in/gabriel-kozuki) · [gabrielkozuki@hotmail.com](mailto:gabrielkozuki@hotmail.com)
 
@@ -8,41 +8,40 @@ Londrina, Brasil · [LinkedIn](https://linkedin.com/in/gabriel-kozuki) · [gabri
 
 4 years building scalable Web and Mobile products — from legacy ERP modernization to SaaS platforms architected from the ground up. I care about the details that make software fast, maintainable, and pleasant to work with.
 
-Currently leading front-end and mobile architecture at **Value4u**, owning technical decisions across Next.js 15 (Web) and React Native (Mobile) in a continuous delivery environment.
+Currently focused on front-end and mobile architecture, owning technical decisions across Next.js 15 (Web) and React Native (Mobile) in a continuous delivery environment.
 
 ---
 
 ## Stack
 
 **Frontend**
-`React` `Next.js 15` `React Native` `TypeScript` `Zustand` `TanStack Query` `Tailwind CSS` `Shadcn/ui` `Angular.js`
+`React` `Next.js 15` `React Native` `Expo` `TypeScript` `Zustand` `TanStack Query` `Reanimated` `Skia` `Tailwind CSS` `Shadcn/ui` `Angular.js`
 
 **Backend**
 `Node.js` `Express` `C#` `.NET` `Kotlin` `Spring Boot` `REST` `GraphQL`
 
 **Database**
-`PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Prisma`
+`PostgreSQL` `SQL Server` `MySQL` `MongoDB` `SQLite` `Prisma`
+
+**Testing**
+`Jest` `React Native Testing Library`
 
 **DevOps & Cloud**
 `AWS` `Docker` `GitHub Actions` `CI/CD` `Vercel` `Digital Ocean`
 
 ---
 
-## Experience highlights
+## Experience
 
-| Company | Role | Period |
-|---|---|---|
-| Value4u | Frontend & Mobile Engineer | 2025 – present |
-| Tata Consultancy Services | Fullstack Developer | 2024 – 2025 |
-| Sistema Lift | Fullstack Developer (Internship) | 2023 – 2024 |
-| Lets Comunicação e Desenvolvimento | Fullstack Developer (Internship) | 2020 – 2021 |
+Available in my portifolio: https://gabrielkozuki.com.br
 
 ---
 
 ## What I focus on
 
+- **Architecture** — Clean Architecture, MVVM, dependency injection, design patterns, clear separation of concerns
 - **Performance** — SSR/SSG strategies, Core Web Vitals, query optimization, bundle analysis
-- **Architecture** — scalable component design, state management patterns, clean separation of concerns
+- **Quality** — automated test coverage, strict TypeScript, predictable, regression-resistant delivery
 - **Developer experience** — reusable component libraries, consistent standards, CI/CD pipelines that get out of the way
 
 ---
